@@ -1629,29 +1629,29 @@ const KeyStatisticsSection = ()=>{
                             alt: "Decorative Vector"
                         }, void 0, false, {
                             fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                            lineNumber: 134,
+                            lineNumber: 133,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                        lineNumber: 133,
+                        lineNumber: 132,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$src$2f$app$2f$our$2d$mission$2f$Experience$2f$Experience$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Experience"], {}, void 0, false, {
                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                        lineNumber: 137,
+                        lineNumber: 136,
                         columnNumber: 5
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "relative flex justify-center mt-40",
+                        className: " mt-20",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$src$2f$app$2f$products$2f$frequentlyAskedQuestions$2f$frequentlyAskedQuestions$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["KeyStatisticsSection"], {}, void 0, false, {
                             fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                            lineNumber: 141,
+                            lineNumber: 140,
                             columnNumber: 7
                         }, ("TURBOPACK compile-time value", void 0))
                     }, void 0, false, {
                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                        lineNumber: 140,
+                        lineNumber: 139,
                         columnNumber: 5
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
@@ -1700,7 +1700,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d
 ;
 const OurMissionPage = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
-        className: "bg-black ",
+        className: "bg-black relative",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "bg-url bg-[url('/Our%20Mission%20Page.png')]",

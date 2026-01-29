@@ -125,7 +125,6 @@ export const KeyStatisticsSection = () => {
             gets richer.
           </p>
         </div>
-        
       </div>
       
     </div>
@@ -137,7 +136,7 @@ export const KeyStatisticsSection = () => {
     <Experience />
 
     {/* ================= FAQ ================= */}
-    <div className="relative flex justify-center mt-40">
+    <div className=" mt-20">
       <FrequentlyAskedQuestions />
     </div>
 

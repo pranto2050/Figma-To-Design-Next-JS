@@ -1008,6 +1008,10 @@
     height: 19px;
   }
 
+  .h-\[20\] {
+    height: 20px;
+  }
+
   .h-\[22px\] {
     height: 22px;
   }
@@ -1076,8 +1080,20 @@
     height: 350px;
   }
 
+  .h-\[500px\] {
+    height: 500px;
+  }
+
   .h-\[520px\] {
     height: 520px;
+  }
+
+  .h-\[900px\] {
+    height: 900px;
+  }
+
+  .h-\[1200px\] {
+    height: 1200px;
   }
 
   .h-auto {

@@ -15,7 +15,7 @@ import { KeyStatisticsSection } from "./Contant/contant";
 
 const OurMissionPage = () => {
   return (
-    <main className="bg-black ">
+    <main className="bg-black relative">
       {/* Top Part */}
       <div className="bg-url bg-[url('/Our%20Mission%20Page.png')]">
         <div className="pt-6 md:pt-10 sm:text-white text-white">
