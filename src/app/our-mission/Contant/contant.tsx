@@ -60,12 +60,12 @@ export const KeyStatisticsSection = () => {
 
     {/* ================= MISSION ================= */}
     <div className="relative">
-      <div className="flex flex-col gap-5 mt-10">
+      <div className="flex flex-col gap-5 mt-15">
         <h1 className="text-black text-5xl md:text-[120px] font-bold">
           Our <span className="text-[#D46A00]"><i>Mission</i></span>
         </h1>
 
-        <p className="text-[22px] md:w-150">
+        <p className="text-[22px] md:w-150 md:mt-5">
           to help people reclaim their time, attention, and peace of mind in a
           world that never stops demanding it.
         </p>
@@ -76,7 +76,7 @@ export const KeyStatisticsSection = () => {
         <Image src={handFiger} alt="Hand Figure" className="w-full h-auto" />
       </div>
 
-      <div className="mt-90 md:mt-16 md:w-175 space-y-4">
+      <div className="mt-90 md:mt-10 md:w-175 space-y-4">
         <p>
           Minar Ease creates thoughtfully designed offline tools that encourage
           slowing down, breathing deeply, and reconnecting with the present

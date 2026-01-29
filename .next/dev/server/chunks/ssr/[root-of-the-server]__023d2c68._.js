@@ -1439,7 +1439,7 @@ const KeyStatisticsSection = ()=>{
                         className: "relative",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "flex flex-col gap-5 mt-10",
+                                className: "flex flex-col gap-5 mt-15",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                         className: "text-black text-5xl md:text-[120px] font-bold",
@@ -1466,7 +1466,7 @@ const KeyStatisticsSection = ()=>{
                                         columnNumber: 9
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-[22px] md:w-150",
+                                        className: "text-[22px] md:w-150 md:mt-5",
                                         children: "to help people reclaim their time, attention, and peace of mind in a world that never stops demanding it."
                                     }, void 0, false, {
                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
@@ -1496,7 +1496,7 @@ const KeyStatisticsSection = ()=>{
                                 columnNumber: 7
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "mt-90 md:mt-16 md:w-175 space-y-4",
+                                className: "mt-90 md:mt-10 md:w-175 space-y-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: "Minar Ease creates thoughtfully designed offline tools that encourage slowing down, breathing deeply, and reconnecting with the present moment."
@@ -1706,7 +1706,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d
 ;
 const OurMissionPage = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
-        className: "bg-black relative",
+        className: "bg-black ",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "bg-url bg-[url('/Our%20Mission%20Page.png')]",
