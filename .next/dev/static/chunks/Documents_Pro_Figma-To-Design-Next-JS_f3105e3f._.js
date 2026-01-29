@@ -1108,12 +1108,9 @@ const Experience = ()=>{
                                             backgroundSize: "cover"
                                         },
                                         children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "w-20 h-20 rounded-lg",
-                                                style: {
-                                                    backgroundImage: `url(${__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$divLeftImg$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$divLeftImg$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"].src})`,
-                                                    backgroundSize: "cover"
-                                                }
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                src: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$divLeftImg$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$divLeftImg$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"].src,
+                                                className: "w-50 h-50 rounded-lg"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
                                                 lineNumber: 75,
@@ -1126,7 +1123,7 @@ const Experience = ()=>{
                                                         children: "Single-Sided Pages"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                        lineNumber: 80,
+                                                        lineNumber: 77,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1134,13 +1131,13 @@ const Experience = ()=>{
                                                         children: "Printed on one side only."
                                                     }, void 0, false, {
                                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                        lineNumber: 81,
+                                                        lineNumber: 78,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 79,
+                                                lineNumber: 76,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
@@ -1161,7 +1158,7 @@ const Experience = ()=>{
                                                 children: "Modern, Gender-Neutral Illustrations"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 92,
+                                                lineNumber: 89,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1169,13 +1166,13 @@ const Experience = ()=>{
                                                 children: "Clean, contemporary artwork for everyone."
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 95,
+                                                lineNumber: 92,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                        lineNumber: 88,
+                                        lineNumber: 85,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1187,10 +1184,10 @@ const Experience = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                 src: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$div__img__1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$div__img__1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"].src,
-                                                className: "w-16 h-16"
+                                                className: "w-30 h-30"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 105,
+                                                lineNumber: 102,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1201,7 +1198,7 @@ const Experience = ()=>{
                                                         children: "Made for Quiet Breaks"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                        lineNumber: 107,
+                                                        lineNumber: 104,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0)),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1209,19 +1206,19 @@ const Experience = ()=>{
                                                         children: "Unplug and enjoy."
                                                     }, void 0, false, {
                                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                        lineNumber: 108,
+                                                        lineNumber: 105,
                                                         columnNumber: 19
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 106,
+                                                lineNumber: 103,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                        lineNumber: 101,
+                                        lineNumber: 98,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
@@ -1245,7 +1242,7 @@ const Experience = ()=>{
                                                 children: "Protective Sheet Included"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 123,
+                                                lineNumber: 120,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1253,13 +1250,13 @@ const Experience = ()=>{
                                                 children: "No mess underneath."
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 124,
+                                                lineNumber: 121,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                        lineNumber: 119,
+                                        lineNumber: 116,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1274,7 +1271,7 @@ const Experience = ()=>{
                                                 children: "200"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 132,
+                                                lineNumber: 129,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -1282,13 +1279,13 @@ const Experience = ()=>{
                                                 children: "Gsm Paper"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 133,
+                                                lineNumber: 130,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                        lineNumber: 128,
+                                        lineNumber: 125,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1303,7 +1300,7 @@ const Experience = ()=>{
                                                 className: "w-14 h-14"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 141,
+                                                lineNumber: 138,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -1311,13 +1308,13 @@ const Experience = ()=>{
                                                 children: "Made for Quiet Breaks"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 142,
+                                                lineNumber: 139,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                        lineNumber: 137,
+                                        lineNumber: 134,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1335,7 +1332,7 @@ const Experience = ()=>{
                                                 }
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 152,
+                                                lineNumber: 149,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0)),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1344,18 +1341,18 @@ const Experience = ()=>{
                                                     children: "Single-Sided Pages"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                    lineNumber: 157,
+                                                    lineNumber: 154,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 156,
+                                                lineNumber: 153,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                        lineNumber: 148,
+                                        lineNumber: 145,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1369,18 +1366,18 @@ const Experience = ()=>{
                                             children: "Modern Illustrations"
                                         }, void 0, false, {
                                             fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                            lineNumber: 166,
+                                            lineNumber: 163,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                        lineNumber: 162,
+                                        lineNumber: 159,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                lineNumber: 116,
+                                lineNumber: 113,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         ]

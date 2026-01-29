@@ -130,3 +130,37 @@ Import traces:
 [00:11:43.572] Server  LOG     ✓ Compiled in 76ms
 [00:11:53.424] Server  LOG     ✓ Compiled in 32ms
 [00:11:58.488] Server  LOG     ✓ Compiled in 42ms
+[00:13:26.511] Server  LOG     ✓ Compiled in 57ms
+[00:13:52.382] Server  LOG     ✓ Compiled in 49ms
+[00:13:52.491] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx:76:17
+Parsing ecmascript source code failed
+  74 |               >
+  75 |                 <
+> 76 |                 <div>
+     |                 ^
+  77 |                   <h1 className="text-xl font-semibold">Single-Sided Pages</h1>
+  78 |                   <p className="mt-2 text-sm opacity-80">
+  79 |                     Printed on one side only.
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[00:14:00.948] Server  LOG     ✓ Compiled in 21ms
+[00:14:07.476] Server  LOG     ✓ Compiled in 32ms
+[00:14:14.481] Server  LOG     ✓ Compiled in 36ms
+[00:14:16.542] Server  LOG     ✓ Compiled in 28ms
+[00:14:43.967] Server  LOG     ✓ Compiled in 41ms
+[00:14:46.912] Server  LOG     ✓ Compiled in 33ms
+[00:14:52.517] Server  LOG     ✓ Compiled in 39ms
+[00:14:54.972] Server  LOG     ✓ Compiled in 215ms

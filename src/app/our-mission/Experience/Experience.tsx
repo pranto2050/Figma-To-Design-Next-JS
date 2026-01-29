@@ -72,10 +72,7 @@ export const Experience = () => {
                 className="col-start-3 col-end-5 rounded-2xl p-6 flex gap-6 items-center text-white"
                 style={{ backgroundImage: `url(${div3CoverImg.src})`, backgroundSize: "cover" }}
               >
-                <div
-                  className="w-20 h-20 rounded-lg"
-                  style={{ backgroundImage: `url(${innerDevLeftImg.src})`, backgroundSize: "cover" }}
-                />
+                <img src={innerDevLeftImg.src} className="w-50 h-50 rounded-lg" />
                 <div>
                   <h1 className="text-xl font-semibold">Single-Sided Pages</h1>
                   <p className="mt-2 text-sm opacity-80">
@@ -102,7 +99,7 @@ export const Experience = () => {
                 className="rounded-2xl p-6 flex flex-col items-center gap-4 text-white"
                 style={{ backgroundImage: `url(${div5CoverImg.src})`, backgroundSize: "cover" }}
               >
-                <img src={innerDevright.src} className="w-16 h-16" />
+                <img src={innerDevright.src} className="w-30 h-30" />
                 <div className="text-center">
                   <h1 className="text-lg font-semibold">Made for Quiet Breaks</h1>
                   <p className="text-sm opacity-80">Unplug and enjoy.</p>
