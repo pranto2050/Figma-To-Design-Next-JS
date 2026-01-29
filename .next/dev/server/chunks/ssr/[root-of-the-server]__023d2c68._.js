@@ -1239,7 +1239,7 @@ const Experience = ()=>{
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                                 src: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$div__img__1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$div__img__1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"].src,
-                                                className: "w-14 h-14"
+                                                className: "w-20 h-20"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
                                                 lineNumber: 138,
@@ -1266,12 +1266,9 @@ const Experience = ()=>{
                                             backgroundSize: "cover"
                                         },
                                         children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "w-16 h-16 rounded-lg",
-                                                style: {
-                                                    backgroundImage: `url(${__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$divLeftImg$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$divLeftImg$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"].src})`,
-                                                    backgroundSize: "cover"
-                                                }
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                                src: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$divLeftImg$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$divLeftImg$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$ssr$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"].src,
+                                                className: "w-30 h-30"
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
                                                 lineNumber: 149,
@@ -1283,12 +1280,12 @@ const Experience = ()=>{
                                                     children: "Single-Sided Pages"
                                                 }, void 0, false, {
                                                     fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                    lineNumber: 154,
+                                                    lineNumber: 151,
                                                     columnNumber: 19
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                                lineNumber: 153,
+                                                lineNumber: 150,
                                                 columnNumber: 17
                                             }, ("TURBOPACK compile-time value", void 0))
                                         ]
@@ -1308,12 +1305,12 @@ const Experience = ()=>{
                                             children: "Modern Illustrations"
                                         }, void 0, false, {
                                             fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                            lineNumber: 163,
+                                            lineNumber: 160,
                                             columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, void 0, false, {
                                         fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Experience/Experience.tsx",
-                                        lineNumber: 159,
+                                        lineNumber: 156,
                                         columnNumber: 15
                                     }, ("TURBOPACK compile-time value", void 0))
                                 ]

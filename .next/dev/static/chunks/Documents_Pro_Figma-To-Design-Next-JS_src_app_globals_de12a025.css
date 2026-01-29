@@ -980,6 +980,10 @@
     height: calc(var(--spacing) * 30);
   }
 
+  .h-40 {
+    height: calc(var(--spacing) * 40);
+  }
+
   .h-50 {
     height: calc(var(--spacing) * 50);
   }
@@ -1154,6 +1158,10 @@
 
   .w-35 {
     width: calc(var(--spacing) * 35);
+  }
+
+  .w-40 {
+    width: calc(var(--spacing) * 40);
   }
 
   .w-45 {
@@ -3662,6 +3670,12 @@
   @media (min-width: 48rem) {
     .md\:h-\[900px\] {
       height: 900px;
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:w-16 {
+      width: calc(var(--spacing) * 16);
     }
   }
 

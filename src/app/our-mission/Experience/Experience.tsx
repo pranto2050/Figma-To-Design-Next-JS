@@ -135,7 +135,7 @@ export const Experience = () => {
                 className="rounded-2xl p-6 flex flex-col items-center gap-4 text-white"
                 style={{ backgroundImage: `url(${div5CoverImg.src})`, backgroundSize: "cover" }}
               >
-                <img src={innerDevright.src} className="w-14 h-14" />
+                <img src={innerDevright.src} className="w-20 h-20" />
                 <h1 className="text-sm font-semibold text-center">
                   Made for Quiet Breaks
                 </h1>
@@ -146,10 +146,7 @@ export const Experience = () => {
                 className="col-span-2 rounded-2xl p-6 flex gap-4 items-center text-white"
                 style={{ backgroundImage: `url(${div3CoverImg.src})`, backgroundSize: "cover" }}
               >
-                <div
-                  className="w-16 h-16 rounded-lg"
-                  style={{ backgroundImage: `url(${innerDevLeftImg.src})`, backgroundSize: "cover" }}
-                />
+                <img src={innerDevLeftImg.src} className="w-30 h-30" />
                 <div>
                   <h1 className="text-lg font-semibold">Single-Sided Pages</h1>
                 </div>
