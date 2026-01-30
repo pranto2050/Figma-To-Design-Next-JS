@@ -618,147 +618,112 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d
 ;
 const KeyStatisticsSection = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: " relative w-full min-h-screen h-auto pt-8  sm:pt-10 pb-20 z-10 bg-no-repeat bg-center bg-cover rounded-t-[100px] ",
+        className: " relative w-full min-h-screen h-auto bg-no-repeat bg-center bg-cover rounded-t-[90px] md:rounded-t-[100px] px-5 sm:px-10 pt-16 sm:pt-24 pb-24 ",
         style: {
             backgroundImage: "url('/Our%20Mission%20Page/Main%20Background.png')"
         },
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "absolute -top-12 md:-top-25 left-0 w-full h-75 md:h-150 overflow-hidden pointer-events-none",
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "absolute top-5 left-0 w-full whitespace-nowrap",
+                className: "relative -mt-24 sm:-mt-40 md:-mt-56 mb-10 pointer-events-none",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                    className: " block leading-none text-[80px] sm:text-[180px] md:text-[250px] lg:text-[300px] font-bold select-none ",
                     style: {
-                        backgroundImage: "linear-gradient(to right, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 70%)",
+                        fontFamily: "'Helvetica Now Display', Helvetica",
+                        backgroundImage: "linear-gradient(150deg, rgba(255,128,0,1) 0%, rgba(255,128,0,0.1) 50%)",
                         WebkitBackgroundClip: "text",
-                        WebkitTextFillColor: "transparent"
+                        WebkitTextFillColor: "transparent",
+                        opacity: 0.5
                     },
-                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        className: "ml-5 text-[120px] sm:text-[180px] md:text-[250px] lg:text-[300px] font-bold block",
-                        style: {
-                            fontFamily: "'Helvetica Now Display', Helvetica",
-                            backgroundImage: "linear-gradient(150deg, rgba(255,128,0,1) 0%, rgba(255,128,0,0.1) 50%)",
-                            WebkitBackgroundClip: "text",
-                            WebkitTextFillColor: "transparent",
-                            opacity: 0.5
-                        },
-                        children: "About Us"
-                    }, void 0, false, {
-                        fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                        lineNumber: 42,
-                        columnNumber: 7
-                    }, ("TURBOPACK compile-time value", void 0))
+                    children: "About Us"
                 }, void 0, false, {
                     fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
                     lineNumber: 33,
-                    columnNumber: 5
+                    columnNumber: 3
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
                 lineNumber: 32,
-                columnNumber: 3
+                columnNumber: 1
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "relative text-black z-10 px-8 sm:px-6 md:px-12 lg:px-20 flex flex-col w-full",
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                    className: "relative",
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "flex flex-col gap-5 mt-15",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                    className: "text-black text-5xl md:text-[120px] font-bold",
-                                    children: [
-                                        "Our ",
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "text-[#D46A00]",
-                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
-                                                children: "Mission"
-                                            }, void 0, false, {
-                                                fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                                                lineNumber: 65,
-                                                columnNumber: 48
-                                            }, ("TURBOPACK compile-time value", void 0))
-                                        }, void 0, false, {
-                                            fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                                            lineNumber: 65,
-                                            columnNumber: 15
-                                        }, ("TURBOPACK compile-time value", void 0))
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                                    lineNumber: 64,
-                                    columnNumber: 9
-                                }, ("TURBOPACK compile-time value", void 0)),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-[22px] md:w-150 md:mt-5",
-                                    children: "to help people reclaim their time, attention, and peace of mind in a world that never stops demanding it."
-                                }, void 0, false, {
-                                    fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                                    lineNumber: 68,
-                                    columnNumber: 9
-                                }, ("TURBOPACK compile-time value", void 0))
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                            lineNumber: 63,
-                            columnNumber: 7
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "absolute w-125 top-40 -left-12.5 md:w-237.5 md:left-125 md:-top-40 -z-10",
-                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                src: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$M2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$M2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
-                                alt: "Hand Figure",
-                                className: "w-full h-auto"
+                className: "max-w-6xl",
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                        className: "text-black text-3xl sm:text-4xl md:text-5xl font-semibold leading-tight mb-6",
+                        children: [
+                            "Our ",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                className: "text-[#D46A00] italic",
+                                children: "Mission"
                             }, void 0, false, {
                                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                                lineNumber: 76,
-                                columnNumber: 9
+                                lineNumber: 61,
+                                columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
+                        lineNumber: 60,
+                        columnNumber: 9
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        className: "mb-6 max-w-xl",
+                        children: "to help people reclaim their time, attention, and peace of mind in a world that never stops demanding it."
+                    }, void 0, false, {
+                        fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
+                        lineNumber: 64,
+                        columnNumber: 9
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "my-10",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
+                            src: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$M2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$public$2f$Our__Mission__Page$2f$M2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$client$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__["default"],
+                            alt: "Hand Figure"
                         }, void 0, false, {
                             fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                            lineNumber: 75,
-                            columnNumber: 7
-                        }, ("TURBOPACK compile-time value", void 0)),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "mt-90 md:mt-10 md:w-175 space-y-4",
-                            children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    children: "Minar Ease creates thoughtfully designed offline tools that encourage slowing down, breathing deeply, and reconnecting with the present moment."
-                                }, void 0, false, {
-                                    fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                                    lineNumber: 80,
-                                    columnNumber: 9
-                                }, ("TURBOPACK compile-time value", void 0)),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    children: "No endless notifications. No pressure to perform. Just small, intentional breaks that help the mind rest and the hands create."
-                                }, void 0, false, {
-                                    fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                                    lineNumber: 85,
-                                    columnNumber: 9
-                                }, ("TURBOPACK compile-time value", void 0)),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    children: "We believe calm isn’t something you download — it’s something you practice, one quiet moment at a time."
-                                }, void 0, false, {
-                                    fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                                    lineNumber: 89,
-                                    columnNumber: 9
-                                }, ("TURBOPACK compile-time value", void 0))
-                            ]
-                        }, void 0, true, {
-                            fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                            lineNumber: 79,
-                            columnNumber: 7
+                            lineNumber: 71,
+                            columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                    lineNumber: 62,
-                    columnNumber: 5
-                }, ("TURBOPACK compile-time value", void 0))
-            }, void 0, false, {
+                    }, void 0, false, {
+                        fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
+                        lineNumber: 70,
+                        columnNumber: 9
+                    }, ("TURBOPACK compile-time value", void 0)),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "space-y-4 max-w-2xl",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                children: "Minar Ease creates thoughtfully designed offline tools that encourage slowing down, breathing deeply, and reconnecting with the present moment."
+                            }, void 0, false, {
+                                fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
+                                lineNumber: 75,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                children: "No endless notifications. No pressure to perform. Just small, intentional breaks that help the mind rest and the hands create."
+                            }, void 0, false, {
+                                fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
+                                lineNumber: 80,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                children: "We believe calm isn’t something you download — it’s something you practice, one quiet moment at a time."
+                            }, void 0, false, {
+                                fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
+                                lineNumber: 84,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0))
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
+                        lineNumber: 74,
+                        columnNumber: 9
+                    }, ("TURBOPACK compile-time value", void 0))
+                ]
+            }, void 0, true, {
                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
                 lineNumber: 59,
-                columnNumber: 3
+                columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {

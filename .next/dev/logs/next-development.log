@@ -1251,3 +1251,245 @@ If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.
 [04:36:08.036] Server  LOG     ✓ Compiled in 28ms
 [04:36:11.332] Server  LOG     ✓ Compiled in 34ms
 [04:36:44.634] Server  LOG     ✓ Compiled in 151ms
+[04:40:56.960] Server  LOG     ✓ Compiled in 80ms
+[04:40:57.181] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:117:1
+Parsing ecmascript source code failed
+  115 |
+  116 |   );
+> 117 | };
+      | ^
+  118 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:41:10.022] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:118:1
+Parsing ecmascript source code failed
+  116 |
+  117 |   );
+> 118 | };
+      | ^
+  119 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:41:12.668] Server  LOG     ✓ Compiled in 49ms
+[04:41:12.770] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:111:3
+Parsing ecmascript source code failed
+  109 |
+  110 |
+> 111 |   </div>
+      |   ^
+  112 |
+  113 |
+  114 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:41:12.770] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:111:4
+Parsing ecmascript source code failed
+  109 |
+  110 |
+> 111 |   </div>
+      |    ^^^^^
+  112 |
+  113 |
+  114 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:41:15.616] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:111:3
+Parsing ecmascript source code failed
+  109 |
+  110 |
+> 111 |   </div>
+      |   ^
+  112 |
+  113 |
+  114 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:41:15.616] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:111:4
+Parsing ecmascript source code failed
+  109 |
+  110 |
+> 111 |   </div>
+      |    ^^^^^
+  112 |
+  113 |
+  114 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:41:21.338] Server  LOG     ✓ Compiled in 42ms
+[04:41:21.441] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:118:1
+Parsing ecmascript source code failed
+  116 |
+  117 |   );
+> 118 | };
+      | ^
+  119 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:41:24.373] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:119:1
+Parsing ecmascript source code failed
+  117 |
+  118 |   );
+> 119 | };
+      | ^
+  120 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:41:38.779] Server  LOG     ✓ Compiled in 46ms
+[04:42:13.525] Server  LOG     ✓ Compiled in 33ms
+[04:42:33.223] Server  LOG     ✓ Compiled in 56ms
+[04:42:50.727] Server  LOG     ✓ Compiled in 49ms
+[04:43:02.552] Server  LOG     ✓ Compiled in 75ms
+[04:43:17.181] Server  LOG     ✓ Compiled in 193ms
+[04:43:27.532] Server  LOG     ✓ Compiled in 230ms
+[04:43:38.522] Server  LOG     ✓ Compiled in 61ms
+[04:43:46.175] Server  LOG     ✓ Compiled in 57ms
+[04:43:56.473] Server  LOG     ✓ Compiled in 178ms
+[04:44:21.199] Server  LOG     ✓ Compiled in 51ms
+[04:44:23.119] Server  LOG     ✓ Compiled in 194ms
+[04:44:29.266] Server  LOG     ✓ Compiled in 53ms
+[04:44:30.530] Server  LOG     ✓ Compiled in 239ms
+[04:45:05.569] Server  LOG     ✓ Compiled in 55ms
+[04:45:30.560] Server  LOG     ✓ Compiled in 112ms
+[04:45:37.061] Server  LOG     ✓ Compiled in 54ms
+[04:45:49.403] Server  LOG     ✓ Compiled in 34ms
+[04:46:04.029] Server  LOG     ✓ Compiled in 214ms
+[04:46:08.469] Server  LOG     ✓ Compiled in 65ms
+[04:46:18.475] Server  LOG     ✓ Compiled in 36ms
+[04:46:24.931] Server  LOG     ✓ Compiled in 72ms
+[04:46:28.473] Server  LOG     ✓ Compiled in 33ms
+[04:46:32.572] Server  LOG     ✓ Compiled in 62ms
+[04:46:43.127] Server  LOG     ✓ Compiled in 33ms
+[04:46:45.819] Server  LOG     ✓ Compiled in 26ms
+[04:46:52.074] Server  LOG     ✓ Compiled in 54ms
+[04:47:17.639] Server  LOG     ✓ Compiled in 151ms
+[04:47:36.519] Server  LOG     ✓ Compiled in 69ms
+[04:47:41.248] Server  LOG     ✓ Compiled in 37ms
+[04:47:45.865] Server  LOG     ✓ Compiled in 238ms
+[04:47:57.000] Server  LOG     ✓ Compiled in 57ms
+[04:48:04.689] Server  LOG     ✓ Compiled in 56ms
+[04:48:06.048] Server  LOG     ✓ Compiled in 30ms
+[04:48:07.641] Server  LOG     ✓ Compiled in 30ms
+[04:48:13.005] Server  LOG     ✓ Compiled in 136ms
+[04:48:24.454] Server  LOG     ✓ Compiled in 52ms
+[04:49:18.564] Server  LOG     ✓ Compiled in 109ms
+[04:49:32.570] Server  LOG     ✓ Compiled in 53ms
+[04:49:34.893] Server  LOG     ✓ Compiled in 67ms
+[04:49:35.905] Server  LOG     ✓ Compiled in 37ms
+[04:49:38.279] Server  LOG     ✓ Compiled in 36ms
+[04:49:46.737] Server  LOG     ✓ Compiled in 112ms
+[04:50:03.031] Server  LOG     ✓ Compiled in 52ms
+[04:50:04.795] Server  LOG     ✓ Compiled in 305ms
+[04:50:12.242] Server  LOG     ✓ Compiled in 56ms
+[04:50:14.324] Server  LOG     ✓ Compiled in 32ms
+[04:50:17.077] Server  LOG     ✓ Compiled in 66ms
+[04:50:23.712] Server  LOG     ✓ Compiled in 59ms
+[04:50:41.221] Server  LOG     ✓ Compiled in 61ms
+[04:50:44.483] Server  LOG     ✓ Compiled in 38ms
+[04:51:04.251] Server  LOG     ✓ Compiled in 48ms
+[04:51:06.551] Server  LOG     ✓ Compiled in 35ms
+[04:51:08.114] Server  LOG     ✓ Compiled in 45ms
+[04:51:14.987] Server  LOG     ✓ Compiled in 32ms
+[04:53:58.990] Server  LOG     ✓ Compiled in 364ms
+[04:53:59.390] Browser ERROR   uncaughtError: ReferenceError: handFiger is not defined
+[04:54:09.601] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[04:54:09.619] Server  LOG     ✓ Compiled in 79ms
+[04:54:11.137] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:54:16.336] Server  LOG     ✓ Compiled in 83ms
+[04:55:10.755] Server  LOG     ✓ Compiled in 272ms
+[04:55:41.461] Server  LOG     ✓ Compiled in 194ms
+[04:56:09.639] Server  LOG     ✓ Compiled in 74ms
+[04:56:28.248] Server  LOG     ✓ Compiled in 81ms
+[04:58:14.772] Server  LOG     ✓ Compiled in 123ms
+[05:01:09.586] Server  LOG     ✓ Compiled in 119ms
+[05:01:45.435] Server  LOG     ✓ Compiled in 126ms
+[05:02:10.336] Server  LOG     ✓ Compiled in 92ms
+[05:02:43.389] Server  LOG     ✓ Compiled in 47ms
+[05:02:46.949] Server  LOG     ✓ Compiled in 45ms
