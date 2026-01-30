@@ -590,22 +590,37 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d
 ;
 const KeyStatisticsSection = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-        className: " relative w-full min-h-screen h-auto pt-8  sm:pt-10 pb-20 z-10 bg-no-repeat bg-center bg-cover rounded-t-[100px] ",
+        className: " relative w-full min-h-screen h-auto bg-no-repeat bg-center bg-cover md:rounded-t-[100px] rounded-t-[40px] ",
         style: {
             backgroundImage: "url('/Our%20Mission%20Page/Main%20Background.png')"
         },
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-            className: "relative text-black z-10 px-8 sm:px-6 md:px-12 lg:px-20 flex flex-col w-full",
+            className: "",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: ""
+                className: "",
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Pro$2f$Figma$2d$To$2d$Design$2d$Next$2d$JS$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                    className: " text-[80px] sm:text-[180px] md:text-[250px] lg:text-[300px] font-bold block",
+                    style: {
+                        fontFamily: "'Helvetica Now Display', Helvetica",
+                        backgroundImage: "linear-gradient(150deg, rgba(255,128,0,1) 0%, rgba(255,128,0,0.1) 50%)",
+                        WebkitBackgroundClip: "text",
+                        WebkitTextFillColor: "transparent",
+                        opacity: 0.5
+                    },
+                    children: "About Us"
+                }, void 0, false, {
+                    fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
+                    lineNumber: 20,
+                    columnNumber: 7
+                }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-                lineNumber: 48,
+                lineNumber: 19,
                 columnNumber: 5
             }, ("TURBOPACK compile-time value", void 0))
         }, void 0, false, {
             fileName: "[project]/Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx",
-            lineNumber: 35,
+            lineNumber: 18,
             columnNumber: 3
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {

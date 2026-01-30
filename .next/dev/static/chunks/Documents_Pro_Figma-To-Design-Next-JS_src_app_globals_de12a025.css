@@ -1613,6 +1613,26 @@
     border-radius: var(--radius-xl);
   }
 
+  .rounded-t-\[20px\] {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+
+  .rounded-t-\[30px\] {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+
+  .rounded-t-\[40px\] {
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+  }
+
+  .rounded-t-\[50px\] {
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+  }
+
   .rounded-t-\[100px\] {
     border-top-left-radius: 100px;
     border-top-right-radius: 100px;
@@ -2099,6 +2119,10 @@
 
   .text-\[40px\] {
     font-size: 40px;
+  }
+
+  .text-\[80px\] {
+    font-size: 80px;
   }
 
   .text-\[120px\] {
@@ -3985,6 +4009,13 @@
   @media (min-width: 48rem) {
     .md\:rounded-\[100px\] {
       border-radius: 100px;
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:rounded-t-\[100px\] {
+      border-top-left-radius: 100px;
+      border-top-right-radius: 100px;
     }
   }
 

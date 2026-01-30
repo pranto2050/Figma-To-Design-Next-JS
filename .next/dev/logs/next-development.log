@@ -860,3 +860,394 @@ Import traces:
 [00:49:14.981] Server  LOG     ✓ Compiled in 43ms
 [00:49:16.889] Server  LOG     ✓ Compiled in 42ms
 [00:49:18.918] Server  LOG     ✓ Compiled in 38ms
+[04:23:40.702] Server  LOG     ✓ Compiled in 234ms
+[04:23:50.617] Server  LOG     ✓ Compiled in 133ms
+[04:24:18.607] Server  LOG     ✓ Compiled in 68ms
+[04:24:26.203] Server  LOG     ✓ Compiled in 171ms
+[04:24:32.758] Server  LOG     ✓ Compiled in 113ms
+[04:24:40.856] Server  LOG     ✓ Compiled in 105ms
+[04:24:47.396] Server  LOG     ✓ Compiled in 37ms
+[04:24:50.125] Server  LOG     ✓ Compiled in 186ms
+[04:25:07.560] Server  LOG     ✓ Compiled in 53ms
+[04:25:10.629] Server  LOG     ✓ Compiled in 35ms
+[04:25:33.080] Server  LOG     ✓ Compiled in 53ms
+[04:25:44.349] Server  LOG     ✓ Compiled in 48ms
+[04:25:44.456] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:61:1
+Parsing ecmascript source code failed
+  59 |
+  60 |   </div>
+> 61 | </section>
+     | ^
+  62 |
+  63 |   );
+  64 | };
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:25:44.456] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:61:2
+Parsing ecmascript source code failed
+  59 |
+  60 |   </div>
+> 61 | </section>
+     |  ^^^^^^^^^
+  62 |
+  63 |   );
+  64 | };
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:25:46.878] Server  LOG     ✓ Compiled in 47ms
+[04:25:59.365] Server  LOG     ✓ Compiled in 84ms
+[04:26:08.269] Server  LOG     ✓ Compiled in 38ms
+[04:26:18.518] Server  LOG     ✓ Compiled in 43ms
+[04:26:18.647] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:97:62
+Parsing ecmascript source code failed
+   95 |
+   96 |     
+>  97 |       ================= BACKGROUND IMAGE ================= */}
+      |                                                              ^
+   98 |         {/* <div className="absolute top-250 md:top-160 left-0 z-20">
+   99 |           <img className="md:h-[900px]" src={vectorImg.src} alt="Decorative Vector" />
+  100 |         </div>
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:26:18.647] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:108:1
+Parsing ecmascript source code failed
+  106 |   );
+  107 | };
+> 108 | 
+      | ^
+
+Unterminated block comment
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:26:22.839] Server  LOG     ✓ Compiled in 40ms
+[04:26:32.541] Server  LOG     ✓ Compiled in 93ms
+[04:26:44.816] Server  LOG     ✓ Compiled in 68ms
+[04:26:50.859] Server  LOG     ✓ Compiled in 47ms
+[04:26:50.988] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:64:1
+Parsing ecmascript source code failed
+  62 |
+  63 |   </div>
+> 64 | </section>
+     | ^
+  65 |
+  66 |   );
+  67 | };
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:26:50.988] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:64:2
+Parsing ecmascript source code failed
+  62 |
+  63 |   </div>
+> 64 | </section>
+     |  ^^^^^^^^^
+  65 |
+  66 |   );
+  67 | };
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:26:53.948] Server  LOG     ✓ Compiled in 62ms
+[04:26:54.065] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:64:1
+Parsing ecmascript source code failed
+  62 |
+  63 |   </div>
+> 64 | </section>
+     | ^
+  65 |
+  66 |   );
+  67 | };
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:26:54.065] Browser ERROR   ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx:64:2
+Parsing ecmascript source code failed
+  62 |
+  63 |   </div>
+> 64 | </section>
+     |  ^^^^^^^^^
+  65 |
+  66 |   );
+  67 | };
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component Browser]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/Contant/contant.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Client Component SSR]
+    ./Documents/Pro/Figma-To-Design-Next-JS/src/app/our-mission/page.tsx [Server Component]
+[04:26:57.545] Server  LOG     ✓ Compiled in 37ms
+[04:29:51.983] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:29:52.589] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/our-mission" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head headCacheNode={{rsc:<Fragment>, ...}}>
+                    <__next_viewport_boundary__>
+                    <MetadataWrapper>
+                      <div
+                        hidden={true}
+-                       bis_skin_checked="1"
+                      >
+                  ...
+                    <InnerLayoutRouter url="/our-mission" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+                      <SegmentViewNode type="page" pagePath="/Documents...">
+                        <SegmentTrieNode>
+                        <ClientPageRoot Component={function OurMissionPage} serverProvidedParams={{...}}>
+                          <OurMissionPage params={Promise} searchParams={Promise}>
+                            <main className="bg-black r...">
+                              <div
+                                className={"bg-url bg-[url('/Our%20Mission%20Page.png')]"}
+-                               bis_skin_checked="1"
+                              >
+                                <div
+                                  className="pt-6 md:pt-10 sm:text-white text-white"
+-                                 bis_skin_checked="1"
+                                >
+                                  <Header>
+                                    <div
+                                      className=""
+-                                     bis_skin_checked="1"
+                                    >
+                                      <header className="relative w...">
+                                        <div
+                                          className="relative w-full bg-[#00000000] md:rounded-[100px] md:overflow-vis..."
+-                                         bis_skin_checked="1"
+                                        >
+                                          <div
+                                            className="relative w-full min-h-[88px] bg-[#ffffff03] rounded-[100px] md:..."
+-                                           bis_skin_checked="1"
+                                          >
+                                            <div
+                                              className="flex items-center justify-between h-full px-4 md:px-[65px] py-4"
+-                                             bis_skin_checked="1"
+                                            >
+                                              <button>
+                                              <nav>
+                                              <div
+                                                className="hidden lg:flex items-center gap-3"
+-                                               bis_skin_checked="1"
+                                              >
+                                                <button>
+                                                <div
+                                                  className="flex items-center gap-5"
+-                                                 bis_skin_checked="1"
+                                                >
+                                              ...
+                                        <div
+                                          id="mobile-menu-panel"
+                                          className="lg:hidden fixed top-0 right-0 z-50 w-[250px] sm:w-[280px] h-scree..."
+                                          style={{boxShadow:"0 8px 32px..."}}
+-                                         bis_skin_checked="1"
+                                        >
+                                          <div
+                                            className="flex flex-col h-full p-6"
+-                                           bis_skin_checked="1"
+                                          >
+                                            <div
+                                              className="flex items-center mb-8"
+-                                             bis_skin_checked="1"
+                                            >
+                                            <nav>
+                                            <div
+                                              className="flex items-center justify-between pt-6 border-t border-black/10"
+-                                             bis_skin_checked="1"
+                                            >
+                                              <button>
+                                              <div
+                                                className="flex items-center gap-5"
+-                                               bis_skin_checked="1"
+                                              >
+                                <div
+                                  className="relative pt-8 md:pt-20 flex justify-center items-center gap-2 sm:gap-3 md..."
+-                                 bis_skin_checked="1"
+                                >
+                                  <div
+                                    className="hidden sm:block w-10 sm:w-15 md:w-auto"
+-                                   bis_skin_checked="1"
+                                  >
+                                  <button>
+                                  <div
+                                    className="hidden sm:block w-10 sm:w-15 md:w-auto"
+-                                   bis_skin_checked="1"
+                                  >
+                                ...
+                              <div
+                                className={"relative  flex justify-center items-center w-full  left-5 -top-10 md:-top..."}
+-                               bis_skin_checked="1"
+                              >
+                                <img>
+                                <div
+                                  className="absolute top-2 xs:top-4 sm:top-10 md:top-16 lg:top-20 xl:top-24 flex flex..."
+-                                 bis_skin_checked="1"
+                                >
+                                  <div
+                                    className="hidden sm:block absolute w-20 xs:w-25 sm:w-30 md:w-40 lg:w-50 xl:w-62.5..."
+-                                   bis_skin_checked="1"
+                                  >
+                                  <div
+                                    className="hidden sm:block absolute w-20 xs:w-25 sm:w-30 md:w-40 lg:w-50 xl:w-62.5..."
+-                                   bis_skin_checked="1"
+                                  >
+                              <div
+                                className="absolute  top-60 xs:top-60 sm:top-40 md:top-52 lg:top-60 flex justify-cente..."
+-                               bis_skin_checked="1"
+                              >
+                              <div
+                                className="absolute w-full top-130 xs:top-140 sm:top-160 md:top-150 lg:top-190 z-10"
+-                               bis_skin_checked="1"
+                              >
+                                <KeyStatisticsSection>
+                                  <section className={" relativ..."} style={{...}}>
+                                    <div
+                                      className="absolute -top-12 md:-top-25 left-0 w-full h-75 md:h-150 overflow-hidd..."
+-                                     bis_skin_checked="1"
+                                    >
+                                      <div
+                                        className="absolute top-5 left-0 w-full whitespace-nowrap"
+                                        style={{backgroundImage:"linear-gra...",WebkitBackgroundClip:"text", ...}}
+-                                       bis_skin_checked="1"
+                                      >
+                      ...
+                  ...
+
+[04:30:34.767] Server  LOG     ✓ Compiled in 167ms
+[04:30:38.836] Server  LOG     ✓ Compiled in 55ms
+[04:30:51.105] Server  LOG     ✓ Compiled in 246ms
+[04:30:51.226] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true s s true s
+[04:30:55.336] Server  LOG     ✓ Compiled in 43ms
+[04:30:58.153] Server  LOG     ✓ Compiled in 67ms
+[04:31:05.327] Server  LOG     ✓ Compiled in 44ms
+[04:31:09.328] Server  LOG     ✓ Compiled in 34ms
+[04:31:12.795] Server  LOG     ✓ Compiled in 38ms
+[04:31:19.164] Server  LOG     ✓ Compiled in 48ms
+[04:31:25.017] Server  LOG     ✓ Compiled in 49ms
+[04:31:41.512] Server  LOG     ✓ Compiled in 63ms
+[04:31:59.588] Server  LOG     ✓ Compiled in 149ms
+[04:32:10.900] Server  LOG     ✓ Compiled in 86ms
+[04:32:14.658] Server  LOG     ✓ Compiled in 166ms
+[04:32:34.464] Server  LOG     ✓ Compiled in 54ms
+[04:32:41.170] Server  LOG     ✓ Compiled in 73ms
+[04:32:49.439] Server  LOG     ✓ Compiled in 41ms
+[04:32:52.077] Server  LOG     ✓ Compiled in 151ms
+[04:33:15.549] Server  LOG     ✓ Compiled in 88ms
+[04:33:20.474] Server  LOG     ✓ Compiled in 34ms
+[04:33:28.331] Server  LOG     ✓ Compiled in 65ms
+[04:33:38.492] Server  LOG     ✓ Compiled in 50ms
+[04:33:52.720] Server  LOG     ✓ Compiled in 176ms
+[04:34:24.500] Server  LOG     ✓ Compiled in 52ms
+[04:34:30.571] Server  LOG     ✓ Compiled in 68ms
+[04:34:35.512] Server  LOG     ✓ Compiled in 64ms
+[04:34:41.513] Server  LOG     ✓ Compiled in 60ms
+[04:34:46.138] Server  LOG     ✓ Compiled in 29ms
+[04:35:01.496] Server  LOG     ✓ Compiled in 58ms
+[04:35:04.090] Server  LOG     ✓ Compiled in 35ms
+[04:35:42.615] Server  LOG     ✓ Compiled in 39ms
+[04:35:45.599] Server  LOG     ✓ Compiled in 35ms
+[04:35:48.252] Server  LOG     ✓ Compiled in 34ms
+[04:35:51.762] Server  LOG     ✓ Compiled in 39ms
+[04:35:54.848] Server  LOG     ✓ Compiled in 29ms
+[04:35:57.196] Server  LOG     ✓ Compiled in 28ms
+[04:36:00.192] Server  LOG     ✓ Compiled in 30ms
+[04:36:02.873] Server  LOG     ✓ Compiled in 26ms
+[04:36:05.549] Server  LOG     ✓ Compiled in 42ms
+[04:36:08.036] Server  LOG     ✓ Compiled in 28ms
+[04:36:11.332] Server  LOG     ✓ Compiled in 34ms
+[04:36:44.634] Server  LOG     ✓ Compiled in 151ms
